@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/jammore1203/world/schema/room.schema.json",
+  "title": "Room",
+  "description": "One room in the archive's tree. game/data/rooms.json holds { rooms: Room[] } as a flat list with parent pointers. Array order is door order. Manage it with `npm run archive -- <command>` rather than by hand.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "parent", "title", "kind"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Stable slug. Never reuse once published." },
+    "parent": { "type": ["string", "null"], "description": "Parent room id. Only the root (kind \"void\") has null." },
+    "title": { "type": "string", "minLength": 1, "description": "Shown on the door that leads here and on arrival." },
+    "kind": {
+      "enum": ["void", "hub", "room", "end"],
+      "description": "void = the root threshold; hub = an era's entrance hall (children of the root, in era order); room = a subset of humour (any depth); end = the end of the internet (last child of the root)."
+    },
+    "era": { "type": "string", "description": "Required on hubs. Rooms inherit it from their nearest ancestor; it sets the room's period look." },
+    "blurb": { "type": "string", "description": "One line shown when you arrive." },
+    "memes": { "type": "array", "items": { "type": "string" }, "description": "Meme ids exhibited here, in walking order. Every meme lives in exactly one room." }
+  }
+}

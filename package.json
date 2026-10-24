@@ -1,0 +1,20 @@
+{
+  "name": "world",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A walkable 3D archive of internet culture and memes.",
+  "type": "module",
+  "scripts": {
+    "start": "node tools/serve.mjs",
+    "validate": "node tools/validate-data.mjs",
+    "test": "node --test test/*.test.mjs",
+    "vendor": "node tools/vendor.mjs",
+    "archive": "node tools/archive.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "three": "0.186.1"
+  }
+}

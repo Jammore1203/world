@@ -1,0 +1,39 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>The Archive</title>
+  <meta name="description" content="Walk through the strata of internet culture. Everything that was ever posted is still here, somewhere.">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <!-- Metric-compatible stand-ins for the period's system fonts (Times, Arial, Courier), for devices that don't ship them. -->
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Tinos:ital,wght@0,400;0,700;1,400&family=Arimo:wght@400;700&family=Cousine&family=Anton&family=Roboto:wght@400;500;700&family=Inter:wght@400;600;800&family=Cormorant+Garamond:ital@0;1&display=swap">
+  <link rel="stylesheet" href="style.css">
+  <script type="importmap">{ "imports": { "three": "./vendor/three/three.module.js" } }</script>
+</head>
+<body>
+  <canvas id="world"></canvas>
+
+  <div id="veil"><div id="veil-year"></div></div>
+  <div id="caption" aria-live="polite"></div>
+  <div id="hud">
+    <span id="hud-era"></span>
+    <button id="hud-sound" type="button" aria-label="Toggle sound">sound on</button>
+  </div>
+  <div id="stick" aria-hidden="true"><div></div></div>
+
+  <div id="gate">
+    <div class="gate__inner">
+      <h1>The Archive</h1>
+      <p>Everything that was ever posted is still here, somewhere.</p>
+      <button id="enter" type="button">enter</button>
+      <p class="gate__how gate__how--desk">W A S D to walk · mouse to look · shift to run · esc to pause</p>
+      <p class="gate__how gate__how--touch">left thumb to walk · right thumb to look</p>
+      <p class="gate__note">best with sound</p>
+    </div>
+  </div>
+  <noscript>The Archive needs JavaScript and WebGL.</noscript>
+  <script type="module" src="src/main.js"></script>
+</body>
+</html>

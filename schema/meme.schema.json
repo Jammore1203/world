@@ -1,0 +1,164 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/jammore1203/world/schema/meme.schema.json",
+  "title": "Meme",
+  "description": "One preserved piece of internet culture. This is the contract between the gathering bot (writer) and the game (reader).",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "id",
+    "name",
+    "year",
+    "era",
+    "glyph",
+    "summary",
+    "origin",
+    "status",
+    "tags",
+    "sources",
+    "provenance"
+  ],
+  "properties": {
+    "id": {
+      "type": "string",
+      "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$",
+      "description": "Stable kebab-case slug. Never reuse or rename once published."
+    },
+    "name": {
+      "type": "string",
+      "minLength": 1
+    },
+    "aliases": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "year": {
+      "type": "integer",
+      "minimum": 1970,
+      "description": "Year it became a meme (not necessarily when the source material was made)."
+    },
+    "era": {
+      "type": "string",
+      "description": "Must match an id in game/data/eras.json, and year must fall inside that era."
+    },
+    "glyph": {
+      "type": "string",
+      "minLength": 1,
+      "maxLength": 8,
+      "description": "Emoji or short text used as the exhibit's icon. We don't host meme images."
+    },
+    "summary": {
+      "type": "string",
+      "minLength": 1,
+      "description": "One or two sentences: what it is."
+    },
+    "quote": {
+      "type": "string",
+      "description": "A short line the meme is known by (catchphrase, caption). Shown as on-screen text in era style."
+    },
+    "origin": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "platform",
+        "story"
+      ],
+      "properties": {
+        "platform": {
+          "type": "string"
+        },
+        "creator": {
+          "type": "string"
+        },
+        "story": {
+          "type": "string",
+          "description": "How it started."
+        }
+      }
+    },
+    "legacy": {
+      "type": "string",
+      "description": "Why it still matters, or how it lives on."
+    },
+    "status": {
+      "enum": [
+        "active",
+        "evergreen",
+        "classic"
+      ],
+      "description": "active = currently spreading; evergreen = old but still in everyday use; classic = remembered more than used."
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "title",
+          "url"
+        ],
+        "properties": {
+          "title": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri"
+          }
+        }
+      }
+    },
+    "links": {
+      "type": "array",
+      "description": "Memes this one crosses into. Each becomes a teleporter in the world, shown at both ends.",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "to",
+          "why"
+        ],
+        "properties": {
+          "to": {
+            "type": "string",
+            "description": "Id of the related meme."
+          },
+          "why": {
+            "type": "string",
+            "description": "One line on how they connect. Shown in-world on the teleporter."
+          }
+        }
+      }
+    },
+    "provenance": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": [
+        "by",
+        "verified"
+      ],
+      "properties": {
+        "by": {
+          "type": "string",
+          "description": "\"seed\" for hand-written entries, or the bot's identifier."
+        },
+        "verified": {
+          "type": "boolean",
+          "description": "True once the facts and source links have been checked."
+        },
+        "collectedAt": {
+          "type": "string",
+          "format": "date-time"
+        }
+      }
+    }
+  }
+}

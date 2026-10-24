@@ -1,0 +1,50 @@
+[
+  {
+    "id": "dawn",
+    "name": "The Dawn",
+    "start": 1979,
+    "end": 1997,
+    "blurb": "Bulletin boards, Usenet and forwarded email. Culture spread by text, one inbox at a time.",
+    "palette": { "floor": "#1d2b3a", "accent": "#5fd3ff" }
+  },
+  {
+    "id": "flash",
+    "name": "Flash & Forums",
+    "start": 1998,
+    "end": 2004,
+    "blurb": "GeoCities pages, Newgrounds and Something Awful. Looping animations and in-jokes that took weeks to travel.",
+    "palette": { "floor": "#2e1f3d", "accent": "#ff7ae0" }
+  },
+  {
+    "id": "tube",
+    "name": "Broadcast Yourself",
+    "start": 2005,
+    "end": 2009,
+    "blurb": "YouTube arrives, 4chan names the image macro, and a single link can fool millions.",
+    "palette": { "floor": "#3a1f1f", "accent": "#ff5f5f" }
+  },
+  {
+    "id": "social",
+    "name": "The Social Boom",
+    "start": 2010,
+    "end": 2014,
+    "blurb": "Facebook, Twitter, Reddit and Tumblr turn memes into a shared global language overnight.",
+    "palette": { "floor": "#1f3a2a", "accent": "#7dff9a" }
+  },
+  {
+    "id": "short",
+    "name": "Six Seconds & Up",
+    "start": 2015,
+    "end": 2019,
+    "blurb": "Vine, Snapchat and early TikTok. Memes get shorter, faster and stranger.",
+    "palette": { "floor": "#3a341f", "accent": "#ffd65f" }
+  },
+  {
+    "id": "algo",
+    "name": "The Algorithm Age",
+    "start": 2020,
+    "end": null,
+    "blurb": "The feed decides. Lockdown humor, AI-generated absurdity and brainrot spread at algorithmic speed.",
+    "palette": { "floor": "#1f2a3a", "accent": "#b48cff" }
+  }
+]

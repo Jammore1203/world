@@ -1,0 +1,1480 @@
+[
+  {
+    "id": "emoticon",
+    "name": "The Emoticon :-)",
+    "year": 1982,
+    "era": "dawn",
+    "glyph": ":-)",
+    "summary": "A sideways smiling face made of punctuation, invented so people could tell when a message was meant as a joke.",
+    "quote": ":-)",
+    "origin": {
+      "platform": "Carnegie Mellon bulletin board",
+      "creator": "Scott Fahlman",
+      "story": "On 19 September 1982 Fahlman suggested typing :-) to mark jokes and :-( for serious posts, after a joke on the board was taken seriously."
+    },
+    "legacy": "Every emoji descends from it.",
+    "status": "evergreen",
+    "tags": [
+      "text",
+      "origins"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Emoticon"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "godwins-law",
+    "name": "Godwin's Law",
+    "year": 1990,
+    "era": "dawn",
+    "glyph": "§",
+    "summary": "As an online discussion grows longer, the chance that someone compares someone else to Hitler approaches one.",
+    "quote": "Probability approaches 1.",
+    "origin": {
+      "platform": "Usenet",
+      "creator": "Mike Godwin",
+      "story": "Godwin put forward the 'law' in 1990 as a way to point out how quickly Usenet arguments escalated."
+    },
+    "legacy": "One of the first laws of online behavior, still quoted in comment sections.",
+    "status": "evergreen",
+    "tags": [
+      "usenet",
+      "argument"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Godwin%27s_law"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "spam",
+    "name": "Spam",
+    "year": 1994,
+    "era": "dawn",
+    "glyph": "🥫",
+    "summary": "Unwanted bulk messages, named after a sketch about a café where every dish includes Spam.",
+    "quote": "Spam, spam, spam, spam...",
+    "origin": {
+      "platform": "Usenet & email",
+      "story": "Named after a Monty Python sketch where a chorus drowns out everything with 'Spam'. MUD users used the word for flooding first, and a 1994 Usenet ad posted to thousands of groups made it famous."
+    },
+    "legacy": "The joke became the technical term.",
+    "status": "evergreen",
+    "tags": [
+      "email",
+      "language"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Spamming"
+      }
+    ],
+    "links": [
+      {
+        "to": "good-times-hoax",
+        "why": "Unwanted mail, two ways."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "good-times-hoax",
+    "name": "The Good Times Virus",
+    "year": 1994,
+    "era": "dawn",
+    "glyph": "✉",
+    "summary": "A fake virus warning that copied itself better than any real virus, because people kept forwarding it.",
+    "quote": "FORWARD THIS TO EVERYONE YOU KNOW",
+    "origin": {
+      "platform": "Email",
+      "story": "In late 1994 warnings spread by email that opening a message titled 'Good Times' would wipe your hard drive. The virus never existed. The warning was the thing that spread."
+    },
+    "legacy": "The ancestor of every chain message.",
+    "status": "classic",
+    "tags": [
+      "email",
+      "hoax"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Good_Times_virus"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "dancing-baby",
+    "name": "The Dancing Baby",
+    "year": 1996,
+    "era": "dawn",
+    "glyph": "👶",
+    "summary": "A rendered 3D baby doing a cha-cha, and probably the first viral video.",
+    "quote": "Ooga-chaka",
+    "origin": {
+      "platform": "Email attachments",
+      "creator": "Michael Girard & Robert Lurye",
+      "story": "A 3D sample animation made for Autodesk Character Studio got passed around as a file attachment, then shown on Ally McBeal in 1998."
+    },
+    "legacy": "Showed that a looping animation could travel the world on its own.",
+    "status": "classic",
+    "tags": [
+      "animation",
+      "3d"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dancing_baby"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "hampster-dance",
+    "name": "The Hampster Dance",
+    "year": 1998,
+    "era": "flash",
+    "glyph": "🐹",
+    "summary": "A web page that was nothing but dancing hamster GIFs and a squeaky song. Millions of people visited.",
+    "quote": "Dee da da da dum",
+    "origin": {
+      "platform": "GeoCities",
+      "creator": "Deidre LaCarte",
+      "story": "A homepage covered in rows of animated hamster GIFs, played over a sped-up sample from Disney's Robin Hood (1973)."
+    },
+    "legacy": "The original attention economy, built from four GIFs.",
+    "status": "classic",
+    "tags": [
+      "geocities",
+      "gif",
+      "music"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Hampster_Dance"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "mahir",
+    "name": "I KISS YOU!!!",
+    "year": 1999,
+    "era": "flash",
+    "glyph": "💋",
+    "summary": "A sincere personal homepage that the whole internet came to visit.",
+    "quote": "WELCOME TO MY HOMEPAGE!!!!!!!!! I KISS YOU!!!!!",
+    "origin": {
+      "platform": "Personal homepage",
+      "creator": "Mahir Çağrı",
+      "story": "A Turkish journalist's earnest homepage, with its broken-English greeting and invitations to visit, was linked everywhere."
+    },
+    "legacy": "An early lesson in going viral without meaning to.",
+    "status": "classic",
+    "tags": [
+      "homepage",
+      "sincerity"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Mahir_%C3%87a%C4%9Fr%C4%B1"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "all-your-base",
+    "name": "All Your Base Are Belong to Us",
+    "year": 2001,
+    "era": "flash",
+    "glyph": "👾",
+    "summary": "A mistranslated villain's line from a 1989 shoot-'em-up that turned into the web's catchphrase.",
+    "quote": "ALL YOUR BASE ARE BELONG TO US",
+    "origin": {
+      "platform": "Something Awful & Newgrounds",
+      "story": "A badly translated cutscene from the 1991 European release of Zero Wing got passed around forums, then became a 2001 Flash video set to a techno track."
+    },
+    "legacy": "Engrish turned into a way of belonging.",
+    "status": "classic",
+    "tags": [
+      "games",
+      "engrish",
+      "flash"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/All_your_base_are_belong_to_us"
+      }
+    ],
+    "links": [
+      {
+        "to": "skibidi-toilet",
+        "why": "Nonsense lore that a generation took completely seriously."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "pbj-time",
+    "name": "Peanut Butter Jelly Time",
+    "year": 2002,
+    "era": "flash",
+    "glyph": "🍌",
+    "summary": "A dancing banana. That's the whole thing.",
+    "quote": "It's peanut butter jelly time!",
+    "origin": {
+      "platform": "Flash animation",
+      "story": "A pixelated banana dances to the Buckwheat Boyz song in a loop."
+    },
+    "legacy": "Hall of fame for nonsense loops.",
+    "status": "classic",
+    "tags": [
+      "flash",
+      "music",
+      "loop"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Peanut_Butter_Jelly_Time"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "badger-badger",
+    "name": "Badger Badger Badger",
+    "year": 2003,
+    "era": "flash",
+    "glyph": "🦡",
+    "summary": "An endless chant of badgers, mushrooms and one snake.",
+    "quote": "Mushroom, mushroom!",
+    "origin": {
+      "platform": "weebls-stuff.com",
+      "creator": "Jonti Picking",
+      "story": "A hypnotic Flash loop of badgers doing calisthenics, broken up by a mushroom and a snake."
+    },
+    "legacy": "The peak of Flash-era repetition.",
+    "status": "classic",
+    "tags": [
+      "flash",
+      "loop",
+      "animals"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Badger_Badger_Badger"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "star-wars-kid",
+    "name": "Star Wars Kid",
+    "year": 2003,
+    "era": "flash",
+    "glyph": "⚔",
+    "summary": "One of the first viral videos, and one of the first public conversations about cyberbullying.",
+    "quote": "(lightsaber noises)",
+    "origin": {
+      "platform": "Shared video file",
+      "story": "Classmates uploaded a teenager's private video of himself swinging a golf ball retriever like a lightsaber, without his consent."
+    },
+    "legacy": "A reminder that there's a real person on the other side.",
+    "status": "classic",
+    "tags": [
+      "video",
+      "consent"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Star_Wars_Kid"
+      }
+    ],
+    "links": [
+      {
+        "to": "charlie-bit-my-finger",
+        "why": "Home video that escaped the home."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "numa-numa",
+    "name": "Numa Numa",
+    "year": 2004,
+    "era": "flash",
+    "glyph": "🎧",
+    "summary": "A man in headphones lip-syncing a Moldovan pop song with his whole heart.",
+    "quote": "Ma-ia-hii, ma-ia-huu",
+    "origin": {
+      "platform": "Newgrounds",
+      "creator": "Gary Brolsma",
+      "story": "Brolsma lip-synced at his webcam to O-Zone's 'Dragostea Din Tei' with total commitment, and posted it in December 2004."
+    },
+    "legacy": "Set the template for webcam performance culture.",
+    "status": "classic",
+    "tags": [
+      "webcam",
+      "music"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Numa_Numa_(video)"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "leeroy-jenkins",
+    "name": "Leeroy Jenkins",
+    "year": 2005,
+    "era": "tube",
+    "glyph": "🛡",
+    "summary": "A battle cry for ruining a carefully laid plan.",
+    "quote": "LEEEEROY JENKINS!",
+    "origin": {
+      "platform": "Warcraftmovies.com",
+      "creator": "Ben Schulz",
+      "story": "In a World of Warcraft raid video, a guild spends ages planning, and then one player charges in yelling his own name."
+    },
+    "legacy": "Shouted before every reckless decision since.",
+    "status": "evergreen",
+    "tags": [
+      "games",
+      "video"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Leeroy_Jenkins"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "chuck-norris-facts",
+    "name": "Chuck Norris Facts",
+    "year": 2005,
+    "era": "tube",
+    "glyph": "🥋",
+    "summary": "Over-the-top 'facts' about the toughest man alive.",
+    "quote": "Chuck Norris counted to infinity. Twice.",
+    "origin": {
+      "platform": "Fact-generator websites",
+      "creator": "Ian Spector",
+      "story": "Absurd claims about Chuck Norris's power spread from a 2005 generator site."
+    },
+    "legacy": "A joke format that never really ended.",
+    "status": "classic",
+    "tags": [
+      "format",
+      "hyperbole"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Chuck_Norris_facts"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "lolcats",
+    "name": "LOLcats",
+    "year": 2007,
+    "era": "tube",
+    "glyph": "🐱",
+    "summary": "Cat photos captioned in broken baby talk.",
+    "quote": "I CAN HAS CHEEZBURGER?",
+    "origin": {
+      "platform": "4chan & I Can Has Cheezburger?",
+      "story": "4chan's 'Caturday' cat pictures with captions became a whole website in 2007, along with a whole dialect."
+    },
+    "legacy": "Showed that the internet runs on cats.",
+    "status": "classic",
+    "tags": [
+      "cats",
+      "image-macro",
+      "language"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Lolcat"
+      }
+    ],
+    "links": [
+      {
+        "to": "grumpy-cat",
+        "why": "Cats with captions became cats with careers."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "rickroll",
+    "name": "Rickrolling",
+    "year": 2007,
+    "era": "tube",
+    "glyph": "🕺",
+    "summary": "A disguised link that sends you to Rick Astley.",
+    "quote": "Never gonna give you up",
+    "origin": {
+      "platform": "4chan",
+      "story": "It grew out of the 'duckroll' prank: a link promises one thing and plays Rick Astley's 1987 'Never Gonna Give You Up' instead."
+    },
+    "legacy": "The prank that never dies, and Astley embraced it.",
+    "status": "evergreen",
+    "tags": [
+      "prank",
+      "music",
+      "video"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rickrolling"
+      }
+    ],
+    "links": [
+      {
+        "to": "trollface",
+        "why": "The bait-and-switch, and the grin that goes with it."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "charlie-bit-my-finger",
+    "name": "Charlie Bit My Finger",
+    "year": 2007,
+    "era": "tube",
+    "glyph": "👦",
+    "summary": "A baby bites his big brother's finger, and the brother's reaction became famous.",
+    "quote": "Ouch! Charlie! That really hurt!",
+    "origin": {
+      "platform": "YouTube",
+      "creator": "Howard Davies-Carr",
+      "story": "A home video of two brothers, uploaded for family, became one of YouTube's most-watched clips."
+    },
+    "legacy": "The golden age of the accidental home video.",
+    "status": "classic",
+    "tags": [
+      "video",
+      "family"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Charlie_Bit_My_Finger"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "dramatic-chipmunk",
+    "name": "Dramatic Chipmunk",
+    "year": 2007,
+    "era": "tube",
+    "glyph": "🐿",
+    "summary": "A rodent turns, stares and gets a dramatic chord.",
+    "quote": "dun dun DUNNN",
+    "origin": {
+      "platform": "YouTube",
+      "story": "A five-second clip from Japanese TV of a prairie dog (not a chipmunk) turning to the camera, set to a dramatic sting."
+    },
+    "legacy": "The shortest drama ever filmed.",
+    "status": "classic",
+    "tags": [
+      "video",
+      "animals",
+      "reaction"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dramatic_Chipmunk"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "rage-comics",
+    "name": "Rage Comics",
+    "year": 2008,
+    "era": "tube",
+    "glyph": "😡",
+    "summary": "Crudely drawn faces for every emotion, in comic-strip form.",
+    "quote": "FFFFFFUUUUUUUUUUUU",
+    "origin": {
+      "platform": "4chan",
+      "story": "A four-panel MS Paint comic ending in a 'FFFFUUUU' face started an entire cast of faces: Forever Alone, Me Gusta, Y U NO."
+    },
+    "legacy": "A shared emotional vocabulary, before emoji.",
+    "status": "classic",
+    "tags": [
+      "comics",
+      "faces"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Rage_comic"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "trollface",
+    "name": "Trollface",
+    "year": 2008,
+    "era": "tube",
+    "glyph": "😏",
+    "summary": "The grin of someone who is messing with you, and knows it.",
+    "quote": "Problem?",
+    "origin": {
+      "platform": "DeviantArt",
+      "creator": "Carlos Ramirez",
+      "story": "Drawn in MS Paint and posted to DeviantArt, the grin became shorthand for trolling."
+    },
+    "legacy": "The face of an entire era of internet behavior.",
+    "status": "classic",
+    "tags": [
+      "faces",
+      "trolling"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trollface"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "keyboard-cat",
+    "name": "Keyboard Cat",
+    "year": 2009,
+    "era": "tube",
+    "glyph": "🎹",
+    "summary": "A cat in a shirt who plays you off stage.",
+    "quote": "Play him off, Keyboard Cat.",
+    "origin": {
+      "platform": "YouTube",
+      "creator": "Charlie Schmidt",
+      "story": "Schmidt filmed his cat 'playing' a keyboard in 1984. In 2009 people started tacking it onto the end of fail videos."
+    },
+    "legacy": "The internet's exit music.",
+    "status": "classic",
+    "tags": [
+      "cats",
+      "video",
+      "music"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Keyboard_Cat"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "double-rainbow",
+    "name": "Double Rainbow",
+    "year": 2010,
+    "era": "social",
+    "glyph": "🌈",
+    "summary": "A man so overjoyed by a double rainbow that he can barely speak.",
+    "quote": "What does it mean?!",
+    "origin": {
+      "platform": "YouTube",
+      "creator": "Paul Vasquez",
+      "story": "Vasquez filmed a double rainbow near Yosemite and was completely overcome. The video took off in 2010."
+    },
+    "legacy": "The purest wonder the internet has recorded.",
+    "status": "classic",
+    "tags": [
+      "video",
+      "nature",
+      "wonder"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Double_Rainbow_(viral_video)"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "trololo",
+    "name": "Trololo",
+    "year": 2010,
+    "era": "social",
+    "glyph": "🎤",
+    "summary": "A Soviet baritone sings a wordless song with a smile you can't shake.",
+    "quote": "Trololo lololo lololo",
+    "origin": {
+      "platform": "YouTube",
+      "creator": "Eduard Khil",
+      "story": "Khil's grinning 1976 performance of a wordless Soviet song came back 34 years later."
+    },
+    "legacy": "Proved the internet can bring back anything.",
+    "status": "classic",
+    "tags": [
+      "music",
+      "revival"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Trololo"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "nyan-cat",
+    "name": "Nyan Cat",
+    "year": 2011,
+    "era": "social",
+    "glyph": "🌈🐱",
+    "summary": "A pixel cat with a Pop-Tart body, flying through space trailing a rainbow.",
+    "quote": "nyan nyan nyan nyan",
+    "origin": {
+      "platform": "YouTube",
+      "creator": "Chris Torres",
+      "story": "Torres's pixel-art Pop-Tart cat was paired with a vocaloid song on YouTube in April 2011."
+    },
+    "legacy": "Pixel nostalgia, looped forever.",
+    "status": "classic",
+    "tags": [
+      "pixel",
+      "music",
+      "loop"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Nyan_Cat"
+      }
+    ],
+    "links": [
+      {
+        "to": "hampster-dance",
+        "why": "A looping animal GIF and a squeaky song, twelve years apart."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "planking",
+    "name": "Planking",
+    "year": 2011,
+    "era": "social",
+    "glyph": "🧍",
+    "summary": "Lying stiff as a board somewhere unexpected.",
+    "quote": "#planking",
+    "origin": {
+      "platform": "Facebook",
+      "story": "People lay rigid and face-down in unlikely places and shared the photos. It spread fastest in Australia."
+    },
+    "legacy": "The template for every photo fad after it.",
+    "status": "classic",
+    "tags": [
+      "photo",
+      "fad"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Planking_(fad)"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "gangnam-style",
+    "name": "Gangnam Style",
+    "year": 2012,
+    "era": "social",
+    "glyph": "🐎",
+    "summary": "A K-pop horse-riding dance that the whole planet learned.",
+    "quote": "Oppa Gangnam Style",
+    "origin": {
+      "platform": "YouTube",
+      "creator": "PSY",
+      "story": "In December 2012 PSY's music video became the first YouTube video to pass a billion views."
+    },
+    "legacy": "Pushed YouTube's view counter past its limits.",
+    "status": "classic",
+    "tags": [
+      "music",
+      "dance",
+      "kpop"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Gangnam_Style"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "grumpy-cat",
+    "name": "Grumpy Cat",
+    "year": 2012,
+    "era": "social",
+    "glyph": "😾",
+    "summary": "A cat who looked deeply unimpressed by everything.",
+    "quote": "No.",
+    "origin": {
+      "platform": "Reddit",
+      "story": "A photo of Tardar Sauce, whose underbite made her look permanently unimpressed, went up on Reddit in 2012."
+    },
+    "legacy": "A cat who became a celebrity. She died in 2019.",
+    "status": "classic",
+    "tags": [
+      "cats",
+      "reddit"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Grumpy_Cat"
+      }
+    ],
+    "links": [
+      {
+        "to": "woman-yelling-at-cat",
+        "why": "The unimpressed cat returns as a reaction image."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "doge",
+    "name": "Doge",
+    "year": 2013,
+    "era": "social",
+    "glyph": "🐕",
+    "summary": "A Shiba Inu thinking in broken, multicolored Comic Sans.",
+    "quote": "such wow. very meme. much archive.",
+    "origin": {
+      "platform": "Tumblr & Reddit",
+      "creator": "Atsuko Sato (photo)",
+      "story": "A 2010 photo of a Shiba Inu named Kabosu, surrounded by Comic Sans inner monologue. It inspired Dogecoin."
+    },
+    "legacy": "It turned into a currency. Kabosu died in 2024.",
+    "status": "evergreen",
+    "tags": [
+      "dogs",
+      "language",
+      "comic-sans"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Doge_(meme)"
+      }
+    ],
+    "links": [
+      {
+        "to": "moo-deng",
+        "why": "An animal the whole internet adopted."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "harlem-shake",
+    "name": "Harlem Shake",
+    "year": 2013,
+    "era": "social",
+    "glyph": "🕴",
+    "summary": "A masked dancer alone, then sudden chaos.",
+    "quote": "(bass drop)",
+    "origin": {
+      "platform": "YouTube",
+      "story": "A 30-second format set to Baauer's track: one person dances alone, then the bass drops and the whole room is in costume."
+    },
+    "legacy": "The first truly global participatory video format.",
+    "status": "classic",
+    "tags": [
+      "video",
+      "dance",
+      "format"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Harlem_Shake_(meme)"
+      }
+    ],
+    "links": [
+      {
+        "to": "planking",
+        "why": "Everyone doing the same silly thing, then posting it."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "ice-bucket-challenge",
+    "name": "Ice Bucket Challenge",
+    "year": 2014,
+    "era": "social",
+    "glyph": "🧊",
+    "summary": "A dare that raised over a hundred million dollars for charity.",
+    "quote": "I nominate...",
+    "origin": {
+      "platform": "Facebook",
+      "story": "People poured ice water over their heads, tagged friends to do the same and donated to ALS research."
+    },
+    "legacy": "It funded real research.",
+    "status": "classic",
+    "tags": [
+      "challenge",
+      "charity"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Ice_Bucket_Challenge"
+      }
+    ],
+    "links": [
+      {
+        "to": "tide-pods",
+        "why": "The challenge format, turned dangerous."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "the-dress",
+    "name": "The Dress",
+    "year": 2015,
+    "era": "short",
+    "glyph": "👗",
+    "summary": "A dress that people saw as different colors.",
+    "quote": "Blue and black or white and gold?",
+    "origin": {
+      "platform": "Tumblr",
+      "story": "A washed-out photo of a dress split the world: blue and black, or white and gold? (It was blue and black.)"
+    },
+    "legacy": "Even scientists studied it.",
+    "status": "classic",
+    "tags": [
+      "photo",
+      "perception"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/The_dress"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "damn-daniel",
+    "name": "Damn Daniel",
+    "year": 2016,
+    "era": "short",
+    "glyph": "👟",
+    "summary": "Being hyped up by a friend, one outfit at a time.",
+    "quote": "Damn, Daniel! Back at it again with the white Vans!",
+    "origin": {
+      "platform": "Twitter & Snapchat",
+      "creator": "Josh Holz",
+      "story": "A string of Snapchat clips of a friend praising Daniel's outfit, especially his white Vans."
+    },
+    "legacy": "A Snapchat-era catchphrase.",
+    "status": "classic",
+    "tags": [
+      "video",
+      "catchphrase"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Damn_Daniel"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "harambe",
+    "name": "Harambe",
+    "year": 2016,
+    "era": "short",
+    "glyph": "🦍",
+    "summary": "A real loss that the internet mourned, mostly through absurdity.",
+    "quote": "Dicks out for Harambe",
+    "origin": {
+      "platform": "Twitter",
+      "story": "A gorilla was killed at the Cincinnati Zoo after a child fell into his enclosure. The grief online turned into a strange collective memorial."
+    },
+    "legacy": "Shows how the internet processes grief.",
+    "status": "classic",
+    "tags": [
+      "animals",
+      "grief",
+      "absurdism"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Killing_of_Harambe"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "distracted-boyfriend",
+    "name": "Distracted Boyfriend",
+    "year": 2017,
+    "era": "short",
+    "glyph": "👀",
+    "summary": "A stock photo template for being drawn to the wrong thing.",
+    "quote": "me / new thing / responsibilities",
+    "origin": {
+      "platform": "Stock photography",
+      "creator": "Antonio Guillem",
+      "story": "A 2015 stock photo of a man turning to look at another woman while his girlfriend glares. People started labeling it in 2017."
+    },
+    "legacy": "Stock photos turned out to be meme gold.",
+    "status": "evergreen",
+    "tags": [
+      "template",
+      "stock-photo"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Distracted_boyfriend_meme"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "tide-pods",
+    "name": "Tide Pods",
+    "year": 2018,
+    "era": "short",
+    "glyph": "🧼",
+    "summary": "Laundry pods that looked like candy.",
+    "quote": "Do not eat.",
+    "origin": {
+      "platform": "Twitter & YouTube",
+      "story": "Jokes about how tempting laundry pods looked grew into a 'challenge' that prompted public safety warnings."
+    },
+    "legacy": "A joke that got out of hand.",
+    "status": "classic",
+    "tags": [
+      "challenge",
+      "absurdism"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Tide_Pod_challenge"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "woman-yelling-at-cat",
+    "name": "Woman Yelling at a Cat",
+    "year": 2019,
+    "era": "short",
+    "glyph": "🙀",
+    "summary": "Two unrelated photos that turned into a perfect argument.",
+    "quote": "(confused salad cat)",
+    "origin": {
+      "platform": "Twitter",
+      "story": "A reality TV scene of a woman shouting was put next to a photo of a white cat named Smudge sitting at a dinner table, looking confused."
+    },
+    "legacy": "Mashups of unrelated pictures as a form.",
+    "status": "evergreen",
+    "tags": [
+      "template",
+      "cats"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Woman_yelling_at_a_cat"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "storm-area-51",
+    "name": "Storm Area 51",
+    "year": 2019,
+    "era": "short",
+    "glyph": "👽",
+    "summary": "A joke raid on a secret base that almost happened.",
+    "quote": "They can't stop all of us.",
+    "origin": {
+      "platform": "Facebook",
+      "creator": "Matty Roberts",
+      "story": "A joke Facebook event to raid Area 51 on 20 September 2019 got about two million RSVPs, plus a plan to 'Naruto run' past the bullets."
+    },
+    "legacy": "A joke that drew a real crowd.",
+    "status": "classic",
+    "tags": [
+      "event",
+      "aliens"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Storm_Area_51"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "ok-boomer",
+    "name": "OK Boomer",
+    "year": 2019,
+    "era": "short",
+    "glyph": "👴",
+    "summary": "Two words that end the argument.",
+    "quote": "ok boomer",
+    "origin": {
+      "platform": "TikTok",
+      "story": "A dismissive two-word reply to older generations spread on TikTok and eventually got said out loud in parliament."
+    },
+    "legacy": "A generation gap in two words.",
+    "status": "evergreen",
+    "tags": [
+      "language",
+      "generations"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/OK_boomer"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "coffin-dance",
+    "name": "Coffin Dance",
+    "year": 2020,
+    "era": "algo",
+    "glyph": "⚰",
+    "summary": "Pallbearers who dance with the casket.",
+    "quote": "(Astronomia intensifies)",
+    "origin": {
+      "platform": "TikTok",
+      "creator": "Ghanaian pallbearers",
+      "story": "Dancing Ghanaian pallbearers, set to the EDM track 'Astronomia', became gallows humor during the 2020 pandemic."
+    },
+    "legacy": "Grief and joy carried together.",
+    "status": "classic",
+    "tags": [
+      "video",
+      "dance",
+      "pandemic"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Dancing_pallbearers"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "among-us",
+    "name": "Sus",
+    "year": 2020,
+    "era": "algo",
+    "glyph": "📮",
+    "summary": "One crewmate is not what they seem.",
+    "quote": "when the impostor is sus",
+    "origin": {
+      "platform": "Among Us & Twitch",
+      "story": "During lockdown everyone played a deduction game about spotting the impostor, and the slang stuck."
+    },
+    "legacy": "The word 'sus' made it into everyday speech.",
+    "status": "evergreen",
+    "tags": [
+      "games",
+      "language",
+      "pandemic"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Among_Us"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "bernie-mittens",
+    "name": "Bernie's Mittens",
+    "year": 2021,
+    "era": "algo",
+    "glyph": "🧤",
+    "summary": "One cozy man, cut out and dropped into history.",
+    "quote": "(sits)",
+    "origin": {
+      "platform": "Twitter",
+      "creator": "Brendan Smialowski (photo)",
+      "story": "A photo of a senator sitting cross-legged in a parka and handmade mittens at the 2021 US inauguration got pasted into every scene imaginable."
+    },
+    "legacy": "The cut-out paste meme at its peak.",
+    "status": "classic",
+    "tags": [
+      "photo",
+      "template"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Bernie_Sanders_mittens_meme"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "skibidi-toilet",
+    "name": "Skibidi Toilet",
+    "year": 2023,
+    "era": "algo",
+    "glyph": "🚽",
+    "summary": "Heads singing from toilets, waging an endless war.",
+    "quote": "skibidi dop dop yes yes",
+    "origin": {
+      "platform": "YouTube Shorts",
+      "creator": "Alexey Gerasimov",
+      "story": "A Source Filmmaker series about singing heads in toilets at war with camera-headed people grew into an epic with billions of views."
+    },
+    "legacy": "A new generation's mythology.",
+    "status": "active",
+    "tags": [
+      "video",
+      "brainrot",
+      "animation"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Skibidi_Toilet"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "barbenheimer",
+    "name": "Barbenheimer",
+    "year": 2023,
+    "era": "algo",
+    "glyph": "💗💥",
+    "summary": "A pink doll movie and an atomic bomb movie, watched as a double bill.",
+    "quote": "Pink and doom.",
+    "origin": {
+      "platform": "Twitter & TikTok",
+      "story": "Two very different films came out on the same day, 21 July 2023, and the internet made them a double feature."
+    },
+    "legacy": "The internet booked people into cinemas.",
+    "status": "classic",
+    "tags": [
+      "film",
+      "event"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Barbenheimer"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "moo-deng",
+    "name": "Moo Deng",
+    "year": 2024,
+    "era": "algo",
+    "glyph": "🦛",
+    "summary": "A tiny, furious baby hippo.",
+    "quote": "bouncy pork",
+    "origin": {
+      "platform": "TikTok",
+      "creator": "Khao Kheow Open Zoo",
+      "story": "A baby pygmy hippo born in Thailand in July 2024 became famous for slippery, bitey tantrums."
+    },
+    "legacy": "A small creature everyone adored.",
+    "status": "active",
+    "tags": [
+      "animals",
+      "zoo"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Moo_Deng"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "brain-rot",
+    "name": "Brain Rot",
+    "year": 2024,
+    "era": "algo",
+    "glyph": "🧠",
+    "summary": "What endless scrolling does to your mind, and the content that does it.",
+    "quote": "brain rot",
+    "origin": {
+      "platform": "Everywhere",
+      "story": "Oxford named it Word of the Year for 2024, though Thoreau used the phrase back in 1854."
+    },
+    "legacy": "The internet naming its own condition.",
+    "status": "active",
+    "tags": [
+      "language",
+      "self-aware"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Brain_rot"
+      }
+    ],
+    "links": [
+      {
+        "to": "badger-badger",
+        "why": "Hypnotic nonsense loops were brainrot before the word existed."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "italian-brainrot",
+    "name": "Italian Brainrot",
+    "year": 2025,
+    "era": "algo",
+    "glyph": "🦈",
+    "summary": "A whole pantheon of AI-generated nonsense creatures.",
+    "quote": "Tralalero tralala",
+    "origin": {
+      "platform": "TikTok",
+      "story": "AI-generated absurd creatures with fake-Italian names and lore: a shark in sneakers, a crocodile bomber plane, a wooden log with a bat."
+    },
+    "legacy": "The first meme mythology built with generative AI.",
+    "status": "active",
+    "tags": [
+      "ai",
+      "brainrot",
+      "absurdism"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/Italian_brainrot"
+      }
+    ],
+    "links": [
+      {
+        "to": "dancing-baby",
+        "why": "Computer-generated creatures going viral, three decades apart."
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  },
+  {
+    "id": "six-seven",
+    "name": "6 7",
+    "year": 2025,
+    "era": "algo",
+    "glyph": "🤷",
+    "summary": "Two numbers and a shrug, and nobody can say what they mean.",
+    "quote": "six sevennn",
+    "origin": {
+      "platform": "TikTok & classrooms",
+      "story": "From the song 'Doot Doot (6 7)' and basketball edits, kids started shouting the numbers along with a palms-up shrug, for no clear reason."
+    },
+    "legacy": "Meaning dissolving in real time.",
+    "status": "active",
+    "tags": [
+      "language",
+      "kids",
+      "brainrot"
+    ],
+    "sources": [
+      {
+        "title": "Wikipedia",
+        "url": "https://en.wikipedia.org/wiki/6-7_(meme)"
+      }
+    ],
+    "provenance": {
+      "by": "seed",
+      "verified": false
+    }
+  }
+]

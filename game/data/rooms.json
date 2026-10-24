@@ -1,0 +1,293 @@
+{
+  "rooms": [
+    {
+      "id": "archive",
+      "parent": null,
+      "title": "The Archive",
+      "kind": "void",
+      "blurb": "Everything that was ever posted is still here, somewhere."
+    },
+    {
+      "id": "dawn",
+      "parent": "archive",
+      "title": "The Dawn",
+      "kind": "hub",
+      "era": "dawn",
+      "blurb": "Bulletin boards, Usenet and forwarded email. Culture spread by text, one inbox at a time."
+    },
+    {
+      "id": "dawn-symbols",
+      "parent": "dawn",
+      "title": "Punctuation & Laws",
+      "kind": "room",
+      "blurb": "Jokes made of keystrokes, and rules made of jokes.",
+      "memes": [
+        "emoticon",
+        "godwins-law",
+        "spam"
+      ]
+    },
+    {
+      "id": "dawn-forward",
+      "parent": "dawn",
+      "title": "Forward This",
+      "kind": "room",
+      "blurb": "Things that travelled one inbox at a time.",
+      "memes": [
+        "good-times-hoax",
+        "dancing-baby"
+      ]
+    },
+    {
+      "id": "flash",
+      "parent": "archive",
+      "title": "Flash & Forums",
+      "kind": "hub",
+      "era": "flash",
+      "blurb": "GeoCities pages, Newgrounds and Something Awful. Looping animations and in-jokes that took weeks to travel."
+    },
+    {
+      "id": "flash-loops",
+      "parent": "flash",
+      "title": "Loops That Never End",
+      "kind": "room",
+      "blurb": "Animations built to repeat until you closed the window.",
+      "memes": [
+        "hampster-dance",
+        "pbj-time",
+        "badger-badger"
+      ]
+    },
+    {
+      "id": "flash-accidental",
+      "parent": "flash",
+      "title": "Accidentally Famous",
+      "kind": "room",
+      "blurb": "People who posted something, and the world showed up.",
+      "memes": [
+        "mahir",
+        "star-wars-kid",
+        "numa-numa"
+      ]
+    },
+    {
+      "id": "flash-engrish",
+      "parent": "flash",
+      "title": "Lost in Translation",
+      "kind": "room",
+      "blurb": "Broken words that became a language.",
+      "memes": [
+        "all-your-base"
+      ]
+    },
+    {
+      "id": "tube",
+      "parent": "archive",
+      "title": "Broadcast Yourself",
+      "kind": "hub",
+      "era": "tube",
+      "blurb": "YouTube arrives, 4chan names the image macro, and a single link can fool millions."
+    },
+    {
+      "id": "tube-bait",
+      "parent": "tube",
+      "title": "Bait & Switch",
+      "kind": "room",
+      "blurb": "You clicked. You should not have clicked.",
+      "memes": [
+        "rickroll",
+        "trollface"
+      ]
+    },
+    {
+      "id": "tube-gamers",
+      "parent": "tube",
+      "title": "Gamers",
+      "kind": "room",
+      "blurb": "Plans, raids, and the man who ruined them.",
+      "memes": [
+        "leeroy-jenkins"
+      ]
+    },
+    {
+      "id": "tube-cats",
+      "parent": "tube",
+      "title": "Cats Rule Everything",
+      "kind": "room",
+      "blurb": "The internet was built to share cats.",
+      "memes": [
+        "lolcats",
+        "keyboard-cat"
+      ]
+    },
+    {
+      "id": "tube-formats",
+      "parent": "tube",
+      "title": "Faces & Formats",
+      "kind": "room",
+      "blurb": "Templates anyone could fill in.",
+      "memes": [
+        "rage-comics",
+        "chuck-norris-facts"
+      ]
+    },
+    {
+      "id": "tube-home",
+      "parent": "tube",
+      "title": "Home Video",
+      "kind": "room",
+      "blurb": "Moments that were never meant for strangers.",
+      "memes": [
+        "charlie-bit-my-finger",
+        "dramatic-chipmunk"
+      ]
+    },
+    {
+      "id": "social",
+      "parent": "archive",
+      "title": "The Social Boom",
+      "kind": "hub",
+      "era": "social",
+      "blurb": "Facebook, Twitter, Reddit and Tumblr turn memes into a shared global language overnight."
+    },
+    {
+      "id": "social-joy",
+      "parent": "social",
+      "title": "Pure Joy",
+      "kind": "room",
+      "blurb": "Wonder, without irony.",
+      "memes": [
+        "double-rainbow",
+        "trololo",
+        "nyan-cat"
+      ]
+    },
+    {
+      "id": "social-animals",
+      "parent": "social",
+      "title": "Animals With Opinions",
+      "kind": "room",
+      "blurb": "Pets who became faces of a feeling.",
+      "memes": [
+        "grumpy-cat",
+        "doge"
+      ]
+    },
+    {
+      "id": "social-together",
+      "parent": "social",
+      "title": "Everyone Join In",
+      "kind": "room",
+      "blurb": "Formats you did, not just watched.",
+      "memes": [
+        "planking",
+        "gangnam-style",
+        "harlem-shake",
+        "ice-bucket-challenge"
+      ]
+    },
+    {
+      "id": "short",
+      "parent": "archive",
+      "title": "Six Seconds & Up",
+      "kind": "hub",
+      "era": "short",
+      "blurb": "Vine, Snapchat and early TikTok. Memes get shorter, faster and stranger."
+    },
+    {
+      "id": "short-arguments",
+      "parent": "short",
+      "title": "The Internet Argues",
+      "kind": "room",
+      "blurb": "Everyone sure they are right.",
+      "memes": [
+        "the-dress",
+        "ok-boomer"
+      ]
+    },
+    {
+      "id": "short-templates",
+      "parent": "short",
+      "title": "Templates",
+      "kind": "room",
+      "blurb": "Two photos, infinite labels.",
+      "memes": [
+        "distracted-boyfriend",
+        "woman-yelling-at-cat"
+      ]
+    },
+    {
+      "id": "short-absurd",
+      "parent": "short",
+      "title": "Collective Absurdity",
+      "kind": "room",
+      "blurb": "A million people deciding something is funny together.",
+      "memes": [
+        "damn-daniel",
+        "harambe",
+        "tide-pods",
+        "storm-area-51"
+      ]
+    },
+    {
+      "id": "algo",
+      "parent": "archive",
+      "title": "The Algorithm Age",
+      "kind": "hub",
+      "era": "algo",
+      "blurb": "The feed decides. Lockdown humor, AI-generated absurdity and brainrot spread at algorithmic speed."
+    },
+    {
+      "id": "algo-lockdown",
+      "parent": "algo",
+      "title": "Lockdown",
+      "kind": "room",
+      "blurb": "Laughing indoors, together, apart.",
+      "memes": [
+        "coffin-dance",
+        "among-us",
+        "bernie-mittens"
+      ]
+    },
+    {
+      "id": "algo-events",
+      "parent": "algo",
+      "title": "Main Character Moments",
+      "kind": "room",
+      "blurb": "For a week, everyone talked about one thing.",
+      "memes": [
+        "barbenheimer",
+        "moo-deng"
+      ]
+    },
+    {
+      "id": "algo-brainrot",
+      "parent": "algo",
+      "title": "Brainrot",
+      "kind": "room",
+      "blurb": "Meaning dissolving at algorithmic speed.",
+      "memes": [
+        "skibidi-toilet",
+        "brain-rot",
+        "six-seven"
+      ]
+    },
+    {
+      "id": "algo-brainrot-italian",
+      "parent": "algo-brainrot",
+      "title": "Italian Brainrot",
+      "kind": "room",
+      "blurb": "A pantheon of machine-made creatures with fake-Italian names.",
+      "memes": [
+        "italian-brainrot"
+      ]
+    },
+    {
+      "id": "end",
+      "parent": "archive",
+      "title": "The End of the Internet",
+      "kind": "end",
+      "blurb": "Thank you for visiting."
+    }
+  ]
+}
